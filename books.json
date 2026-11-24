@@ -1,0 +1,86 @@
+[
+    {
+        "book_id": "B101",
+        "title": "Python Crash Course",
+        "author": "Eric Matthes",
+        "category": "Technology",
+        "is_available": true
+    },
+    {
+        "book_id": "B102",
+        "title": "Clean Code",
+        "author": "Robert C. Martin",
+        "category": "Technology",
+        "is_available": true
+    },
+    {
+        "book_id": "B103",
+        "title": "Introduction To Algorithms",
+        "author": "Thomas H. Cormen",
+        "category": "Science",
+        "is_available": true
+    },
+    {
+        "book_id": "B104",
+        "title": "The Pragmatic Programmer",
+        "author": "Andy Hunt",
+        "category": "Technology",
+        "is_available": true
+    },
+    {
+        "book_id": "B105",
+        "title": "To Kill A Mockingbird",
+        "author": "Harper Lee",
+        "category": "Literature",
+        "is_available": true
+    },
+    {
+        "book_id": "B106",
+        "title": "A Brief History Of Time",
+        "author": "Stephen Hawking",
+        "category": "Science",
+        "is_available": true
+    },
+    {
+        "book_id": "B107",
+        "title": "Sapiens: A Brief History Of Humankind",
+        "author": "Yuval Noah Harari",
+        "category": "History",
+        "is_available": true
+    },
+    {
+        "book_id": "B108",
+        "title": "1984",
+        "author": "George Orwell",
+        "category": "Fiction",
+        "is_available": true
+    },
+    {
+        "book_id": "B109",
+        "title": "Design Patterns",
+        "author": "Erich Gamma",
+        "category": "Technology",
+        "is_available": true
+    },
+    {
+        "book_id": "B110",
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "category": "Literature",
+        "is_available": true
+    },
+    {
+        "book_id": "B111",
+        "title": "Ikigai",
+        "author": "Hector Garcia",
+        "category": "Personal Help",
+        "is_available": true
+    },
+    {
+        "book_id": "B123",
+        "title": "Sas",
+        "author": "Dfg",
+        "category": "Fiction",
+        "is_available": true
+    }
+]

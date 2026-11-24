@@ -1,0 +1,13 @@
+Book ID,Title,Author,Category,Status
+B101,Python Crash Course,Eric Matthes,Technology,Available
+B102,Clean Code,Robert C. Martin,Technology,Available
+B103,Introduction To Algorithms,Thomas H. Cormen,Science,Available
+B104,The Pragmatic Programmer,Andy Hunt,Technology,Available
+B105,To Kill A Mockingbird,Harper Lee,Literature,Available
+B106,A Brief History Of Time,Stephen Hawking,Science,Available
+B107,Sapiens: A Brief History Of Humankind,Yuval Noah Harari,History,Available
+B108,1984,George Orwell,Fiction,Available
+B109,Design Patterns,Erich Gamma,Technology,Available
+B110,The Great Gatsby,F. Scott Fitzgerald,Literature,Available
+B111,Ikigai,Hector Garcia,Personal Help,Available
+B123,Sas,Dfg,Fiction,Available

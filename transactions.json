@@ -1,0 +1,42 @@
+[
+    {
+        "transaction_id": "TXN-0001",
+        "member_id": "25BTRCF009",
+        "member_name": "Anshul Kumar",
+        "book_id": "B101",
+        "book_title": "Python Crash Course",
+        "borrow_date": "2026-11-10 15:43:45",
+        "return_date": "2026-11-10 15:43:45",
+        "status": "RETURNED"
+    },
+    {
+        "transaction_id": "TXN-0002",
+        "member_id": "25BTRCF009",
+        "member_name": "Anshul Kumar",
+        "book_id": "B111",
+        "book_title": "Ikigai",
+        "borrow_date": "2026-11-10 16:25:53",
+        "return_date": "2026-11-10 16:27:23",
+        "status": "RETURNED"
+    },
+    {
+        "transaction_id": "TXN-0003",
+        "member_id": "25BTRCF009",
+        "member_name": "Anshul Kumar",
+        "book_id": "B111",
+        "book_title": "Ikigai",
+        "borrow_date": "2026-11-10 16:32:17",
+        "return_date": "2026-11-10 16:34:05",
+        "status": "RETURNED"
+    },
+    {
+        "transaction_id": "TXN-0004",
+        "member_id": "25BTRCF009",
+        "member_name": "Anshul Kumar",
+        "book_id": "B108",
+        "book_title": "1984",
+        "borrow_date": "2026-11-10 16:34:39",
+        "return_date": "2026-11-10 16:36:16",
+        "status": "RETURNED"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "member_id": "25BTRCF009",
+        "name": "Anshul Kumar",
+        "email": "anshul@college.edu",
+        "member_type": "Student"
+    },
+    {
+        "member_id": "F001",
+        "name": "Dr. Sharma",
+        "email": "sharma@college.edu",
+        "member_type": "Faculty"
+    },
+    {
+        "member_id": "25BTRCF007",
+        "name": "Asin",
+        "email": "asin@college.edu",
+        "member_type": "Student"
+    },
+    {
+        "member_id": "25BTRCF008",
+        "name": "Anne Reeja A",
+        "email": "anne@college.edu",
+        "member_type": "Student"
+    },
+    {
+        "member_id": "25BTRCF010",
+        "name": "Anusha M B",
+        "email": "anusha@college.edu",
+        "member_type": "Student"
+    },
+    {
+        "member_id": "25BTRCF011",
+        "name": "Archit Raj",
+        "email": "archit@college.edu",
+        "member_type": "Student"
+    },
+    {
+        "member_id": "25BTRCF012",
+        "name": "Aryan Raj",
+        "email": "aryan@college.edu",
+        "member_type": "Student"
+    },
+    {
+        "member_id": "FAC001",
+        "name": "Dr. Ramesh Sharma",
+        "email": "ramesh@college.edu",
+        "member_type": "Faculty"
+    },
+    {
+        "member_id": "FAC002",
+        "name": "Prof. Sunita Rao",
+        "email": "sunita@college.edu",
+        "member_type": "Faculty"
+    }
+]
